@@ -18,7 +18,7 @@ function App() {
           headerShown: false,
           tabBarStyle: { backgroundColor: 'blue',margin:10, borderRadius: 20, height: 60, position: 'absolute', bottom:20 },
           tabBarActiveTintColor: '#FFFFFF',
-          tabBarInactiveTintColor: '#BB86FC',
+          tabBarInactiveTintColor: 'skyblue',
           tabBarLabelPosition: 'beside-icon',
           
         }}
